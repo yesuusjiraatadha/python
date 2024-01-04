@@ -4,6 +4,7 @@
 # 3, Degafa denbob     2527/14
 # 4, Darara takele     2493/14
 # 5, Bilisuma fufa     2350/14
+# 6, Yakob fayisa      1816/14
 
 from tkinter import *
 from tkinter import filedialog, messagebox
